@@ -1,0 +1,8 @@
+event(enters(john,pub),1).
+event(orders(john,beer),2).
+event(drinks(john,beer),3).
+event(enters(mary,pub),5).
+event(orders(mary,beer),7).
+event(drinks(mary,beer),8).
+event(leaves(john, pub),9).
+event(leaves(mary,pub),10).
